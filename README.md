@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [wealth-planning-apps/projects/financial-data-pipeline](https://github.com/john-stromberg/wealth-planning-apps/tree/main/projects/financial-data-pipeline).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Financial Data Pipeline
 
 Lightweight ETL MVP for advisor workflows: market, economic, and client cashflow data ingestion into a curated monthly feature set.
